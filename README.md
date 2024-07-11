@@ -1,3 +1,4 @@
+# **⚠ This project has been deprecated due to lack of further work with the Java swing library. See [this project](https://github.com/Macintosh-Fan/cap12-image-presenter) for another similar program.**
 # **Slideshow**
 ## Overview
 This is a simple Java slideshow program designed to display pictures at a steady rate with wait times.

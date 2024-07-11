@@ -5,7 +5,9 @@ import java.awt.image.BufferedImage;
  * The class that contains the image itself, some related data, and a method to get the {@link ImageIcon} of the image.
  *
  * @author Macintosh-Fan
+ * @deprecated Due to Macintosh_Fan no longer using Java's swing library.
  */
+@Deprecated
 public class ImageSource {
     /**
      * The {@link ImageIcon} of the image.

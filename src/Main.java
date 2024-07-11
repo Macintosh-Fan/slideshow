@@ -22,8 +22,10 @@ import java.util.concurrent.Future;
 /**
  * The main class for the program.
  *
- * @author Macintosh-Fan
+ * @author Macintosh_Fan
+ * @deprecated Due to Macintosh_Fan no longer using Java's swing library.
  */
+@Deprecated
 public final class Main {
     /**
      * Default image scaling for the program.
